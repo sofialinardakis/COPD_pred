@@ -1,5 +1,5 @@
 # COPD_pred
-predicting model &amp; visualization for COPD prediction based on dataset for mortalities
+predicting model &amp; visualization for COPD prediction based on dataset for mortalities.
 dataset: [https://www.kaggle.com/datasets/saurabhshahane/in-hospital-mortality-prediction](url)
 
 **COPD DATA ANALYSIS AND MODELLING PROJECT**
