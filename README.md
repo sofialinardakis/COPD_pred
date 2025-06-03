@@ -4,7 +4,7 @@ dataset: [https://www.kaggle.com/datasets/saurabhshahane/in-hospital-mortality-p
 
 **COPD DATA ANALYSIS AND MODELLING PROJECT**
 
-DISCLAIMER: CF != COPD, initially wanted CF database (non existent for now), COPD available from mortalities database
+DISCLAIMER: CF != COPD, initially wanted CF database (no public datasets available), COPD available from mortalities database
 Makes sense since 300 million people have copd…
 
 **Hypothesis//expectations:**
