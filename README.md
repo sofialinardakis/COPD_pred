@@ -47,36 +47,6 @@ Makes sense since 300 million people have copd…
 - 26/89 had diabetes
 - 7/89 had outcome death
 
-
-**INFO & STATS (from the internet)**
-- More than 75 percent of people with CF are diagnosed by age 2. More than half of the CF population is age 18 or older.
-- Pulmonary fibrosis is lung scarring that usually occurs in older age from unknown or environmental causes. Cystic fibrosis is a genetic condition that a person is born with that causes thickened mucus in the lungs, intestines, pancreas, kidneys, and liver.
-- 300 million copd, 105,000 cf
-- COPD caused by exposure to environmental irritants (tobacco…)
-- COPD diagnosed in adulthood
-- CF is genetic, gene mutations
-- CF diagnosed in childhood
-
-
-**OTHER**
-
-- while researching I came across the RNA symbols for cystic fribrosis:
-		HMOX1, EDNRA, GSTM3
-	and seeing AlphaFold’s predicted 3d structure (via genecards) for these genes was inspiring and motivates me to go further into what ml has to offer the world
-		- dna methylation (expression), 
-- HMOX1 and GSTM3 in nasal epithelial samples; 
-- HMOX1 and EDNRA in blood samples 
-- (useful for future projects with samples and probable diseases)
-- DNA methylation at modifier genes of lung disease severity is altered in cystic fibrosis
-
-
-
-
-
-
-
-
-
 **MODEL RESULTS conclusion** -->
 **Best**; GaussianProcessClassifier, LogisticRegression, SVC
 
@@ -129,3 +99,34 @@ Matrix7:
  [[327   5]
  [ 22   0]]
 Accuracy7:  92.37288135593221
+
+
+**INFO & STATS (from the internet)**
+- More than 75 percent of people with CF are diagnosed by age 2. More than half of the CF population is age 18 or older.
+- Pulmonary fibrosis is lung scarring that usually occurs in older age from unknown or environmental causes. Cystic fibrosis is a genetic condition that a person is born with that causes thickened mucus in the lungs, intestines, pancreas, kidneys, and liver.
+- 300 million copd, 105,000 cf
+- COPD caused by exposure to environmental irritants (tobacco…)
+- COPD diagnosed in adulthood
+- CF is genetic, gene mutations
+- CF diagnosed in childhood
+
+
+**OTHER**
+
+- while researching I came across the RNA symbols for cystic fribrosis:
+		HMOX1, EDNRA, GSTM3
+	and seeing AlphaFold’s predicted 3d structure (via genecards) for these genes was inspiring and motivates me to go further into what ml has to offer the world
+		- dna methylation (expression), 
+- HMOX1 and GSTM3 in nasal epithelial samples; 
+- HMOX1 and EDNRA in blood samples 
+- (useful for future projects with samples and probable diseases)
+- DNA methylation at modifier genes of lung disease severity is altered in cystic fibrosis
+
+
+
+
+
+
+
+
+
